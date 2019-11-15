@@ -1,0 +1,11 @@
+$height: 100 / 3;
+$width: 100;
+
+* {
+  padding: 0;
+  margin: 0;
+}
+.fullscreen {
+  height: $height * 1vh;
+  width: $width * 1vw;
+}

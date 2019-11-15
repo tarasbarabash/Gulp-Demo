@@ -1,0 +1,24 @@
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+section span {
+  align-self: center;
+}
